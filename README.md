@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tushar Dogra</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
-- 🔭 I’m currently working as SDE intern [Inspeq AI](https://www.inspeq.ai/)
+- 🔭 I’m currently working as SDE intern at [Inspeq AI](https://www.inspeq.ai/)
 
 - 🌱 I’m currently working on **FastAPI**
 
