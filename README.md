@@ -14,3 +14,4 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
+![strikertushar19's Stats](https://github-readme-stats.vercel.app/api?username=strikertushar19&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
