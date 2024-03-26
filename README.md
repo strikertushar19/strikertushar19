@@ -14,4 +14,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-![strikertushar19's Stats](https://github-readme-stats.vercel.app/api?username=strikertushar19&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=strikertushar19&show_icons=true&locale=en&layout=compact" alt="strikertushar19" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=strikertushar19&show_icons=true&locale=en" alt="strikertushar19" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=strikertushar19&" alt="strikertushar19" /></p>
