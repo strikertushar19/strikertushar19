@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Software Developer from India</h3>
 
 - 🔭 Looking for potential opportunites for work and collobaration.
+- Currently Software Enginner in Ai startup
 - 🔭 Previous Software Development Engineer intern at [Inspeq AI](https://www.inspeq.ai/) for 6-months
 
 - 🌱 I’m currently working on **AI,LLM models and there applications in making end to end full stack applications**
